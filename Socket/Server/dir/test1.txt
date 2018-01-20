@@ -1,0 +1,4 @@
+Hello, everyone. this is my email, test1@google.com
+And this is my second email: test12@yahoo.com
+We have to check email validation of this text file.
+Please contact to worm;wlrm@naver.com
